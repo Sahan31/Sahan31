@@ -5,7 +5,7 @@ I am a passionate developer currently working at **Revoise** and studying for my
 
 - 🔭 I’m currently working on: **Enterprise Web Applications**
 - 🌱 I’m currently learning: **Advanced JavaScript & Linux (Fedora)**
-- ⚡ Fun fact: I'm an aquarium hobbyist (ask me about cement tanks!)
+- ⚡ Fun fact: I'm an aquarium hobbyist.
 
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
