@@ -9,7 +9,7 @@
 I am a results-driven **Web Developer** with **2+ years of professional experience**. I specialize in building high-performance **E-commerce platforms**, dynamic **Multi-page websites**, and conversion-focused **Landing pages**.
 
 - 🔭 I have successfully delivered **15+ corporate projects**, focusing on scalability and user experience.
-- 🎓 **Education:** Currently pursuing **Pearson BTEC Level 5 HND in Computing (RQF)** at **ESOFT Metro Campus** - *Expected Graduation: October 31, 2026*.
+- 🎓 **Education:** Currently pursuing **Pearson BTEC Level 5 HND in Computing (Software Engineering)** at **ESOFT Metro Campus** - *Expected Graduation: October 31, 2026*.
 - ⚡ **Current Focus:** Deep diving into **Advanced JavaScript (ES6+)** and **React.js** to build complex full-stack applications.
 - 📍 Based in **Gampaha, Sri Lanka**.
 
