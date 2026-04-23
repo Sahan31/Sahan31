@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-I am a results-driven **Web Developer** with **2+ years of professional experience**. I specialize in building high-performance **E-commerce platforms**, dynamic **Multi-page websites**, and conversion-focused **Landing pages**. 
+I am a results-driven **Web Developer** with **2+ years of professional experience**. I specialize in building high-performance **E-commerce platforms**, dynamic **Multi-page websites**, and conversion-focused **Landing pages**.
 
 - 🔭 I have successfully delivered **15+ corporate projects**, focusing on scalability and user experience.
-- 🎓 Currently completing my **Higher National Diploma (HND)** - *Expected Graduation: October 31, 2026*.
-- ⚡ **2026 Goal:** Transitioning into a Full-Stack Engineer role at a top-tier IT company.
+- 🎓 **Education:** Currently pursuing **Pearson BTEC Level 5 HND in Computing (RQF)** at **ESOFT Metro Campus** - *Expected Graduation: October 31, 2026*.
+- ⚡ **Current Focus:** Deep diving into **Advanced JavaScript (ES6+)** and **React.js** to build complex full-stack applications.
 - 📍 Based in **Gampaha, Sri Lanka**.
 
 ---
@@ -24,15 +24,6 @@ I am a results-driven **Web Developer** with **2+ years of professional experien
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 🎯 My 6-Month Roadmap (2026)
-| Phase | Milestone | Status |
-| :--- | :--- | :--- |
-| **Phase 1** | **JavaScript Mastery** (ES6+, Async, Advanced Logic) | ⏳ In Progress |
-| **Phase 2** | **Advanced React** (Redux, Hooks, Next.js) | 📅 Target: July |
-| **Phase 3** | **Full-Stack Mastery & HND Completion** | 🎓 Target: October |
 
 ---
 
