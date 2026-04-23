@@ -16,4 +16,4 @@ I am a passionate developer currently working at **Revoise** and studying for my
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats
-![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=radical)
+![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=tokyonight&count_private=true)
