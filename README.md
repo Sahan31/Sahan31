@@ -1,6 +1,6 @@
 # Hi there, I'm Sahan! 👋
 
-### 👨‍💻 Web Developer | Frontend Engineering Student
+### 👨‍💻 Frontend Developer | JavaScript & React Enthusiast
 
 I am a passionate Web Developer with 2 years of professional experience, currently focusing on leveling up my skills in modern frontend technologies.
 
@@ -17,9 +17,10 @@ I am a passionate Web Developer with 2 years of professional experience, current
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 My Stats
-![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ඔයාගේ_USERNAME_එක_මෙතනට_දාන්න&show_icons=true&theme=radical)
+### 📈 My GitHub Stats
+![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan31&layout=compact&theme=radical&hide_border=true)
 
 ---
 📫 **How to reach me:**
-[LinkedIn](ඔයාගේ_LINKEDIN_LINK_එක) | [Gmail](mailto:ඔයාගේ_EMAIL_එක)
+[LinkedIn](https://www.linkedin.com/in/sahan31) | [Gmail](mailto:sahanrashmikaw@gmail.com)
