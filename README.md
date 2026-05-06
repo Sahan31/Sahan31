@@ -18,9 +18,16 @@ I am a passionate Web Developer with 2 years of professional experience, current
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 My GitHub Stats
-![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan31&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=radical&hide_border=true" alt="Sahan's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan31&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 📫 **How to reach me:**
-[LinkedIn](https://www.linkedin.com/in/sahan31) | [Gmail](mailto:sahanrashmikaw@gmail.com)
+
+*   **LinkedIn:** [linkedin.com/in/sahan31](https://www.linkedin.com/in/sahan31)
+*   **WhatsApp:** 0753174272
+*   **Phone:** 0705080942
+*   **Email:** sahanrashmikaw@gmail.com
