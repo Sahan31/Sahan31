@@ -19,9 +19,7 @@ I am a passionate Web Developer with 2 years of professional experience, current
 
 ### 📈 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=radical&hide_border=true" alt="Sahan's GitHub stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan31&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahan31&theme=radical&hide_border=true" alt="Sahan's Streak Stats" />
 </p>
 
 ---
