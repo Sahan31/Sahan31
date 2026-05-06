@@ -41,8 +41,9 @@ Hi there! I'm **Sahan Rashmika**, a passionate **Frontend Developer** who loves 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan31&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahan31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahan31&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -68,9 +69,10 @@ Hi there! I'm **Sahan Rashmika**, a passionate **Frontend Developer** who loves 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan31)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahan31)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahanrashmikaw@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94753174272)
-[![Phone](https://img.shields.io/badge/Phone-0705080942-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+94705080942)
+
+📧 **Email:** [sahanrashmikaw@gmail.com](mailto:sahanrashmikaw@gmail.com)
+📞 **Phone:** +94 705 080 942
 
 </div>
 
