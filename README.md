@@ -10,7 +10,7 @@
 
 Hi there! I'm **Sahan Rashmika**, a passionate **Frontend Developer** who loves building clean, responsive, and user-friendly web experiences.
 
-- 🌱 &nbsp;Currently learning and growing my frontend skills
+- 💼 &nbsp;Frontend Developer at **Revoise** with **2+ years** of professional experience
 - 💻 &nbsp;Focused on building responsive, accessible UIs
 - 🎯 &nbsp;Committed to writing clean, maintainable code
 - ⚡ &nbsp;I enjoy turning ideas into pixel-perfect interfaces
@@ -66,8 +66,11 @@ Hi there! I'm **Sahan Rashmika**, a passionate **Frontend Developer** who loves 
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahan31)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahan31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahanrashmikaw@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94753174272)
+[![Phone](https://img.shields.io/badge/Phone-0705080942-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:+94705080942)
 
 </div>
 
